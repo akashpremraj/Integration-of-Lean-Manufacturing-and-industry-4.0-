@@ -32,6 +32,17 @@ This project develops a practical **Smart Lean Manufacturing** framework that in
 
 ---
 
+### Roadmap at a glance
+```mermaid
+flowchart LR
+  A[Readiness & Baseline\n(VSM, KPI tree, skills audit)] --> B[Tech Selection\n(IoT, MES, analytics, robotics)]
+  B --> C[Pilot Design\n(data model, dashboards, training)]
+  C --> D[Run Pilot\nmeasure OEE, FPY, kWh/unit]
+  D --> E[Scale & Interconnect\nOT/IT, cybersecurity, governance]
+  E --> F[Continuous Improvement\nkaizen + model updates]
+
+---
+
 ## 🧩 Framework (Lean × I4.0)
 - **Lean core:** Waste elimination, flow, JIT, **Jidoka**, **Kaizen**, **VSM**, **TPM**, **SMED**.  
 - **I4.0 enablers:** IoT sensors, CPS, robotics/AGVs, analytics/**AI-ML**, digital twins, AR, MES.  

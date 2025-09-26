@@ -32,10 +32,7 @@ This project develops a practical **Smart Lean Manufacturing** framework that in
 
 ---
 
-**Important**: add **one blank line** after the closing triple backticks, *then* put your separator and next heading, e.g.:
-
 ### Roadmap at a glance
-
 ```mermaid
 flowchart LR
   A["Readiness & Baseline<br/>VSM, KPI tree, skills audit"] --> B["Tech Selection<br/>IoT, MES, analytics, robotics"]
@@ -43,6 +40,7 @@ flowchart LR
   C --> D["Run Pilot<br/>measure OEE, FPY, kWh/unit"]
   D --> E["Scale & Interconnect<br/>OT/IT, cybersecurity, governance"]
   E --> F["Continuous Improvement<br/>kaizen + model updates"]
+```
 
 ---
 

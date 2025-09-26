@@ -35,11 +35,11 @@ This project develops a practical **Smart Lean Manufacturing** framework that in
 ### Roadmap at a glance
 ```mermaid
 flowchart LR
-  A[Readiness & Baseline\n(VSM, KPI tree, skills audit)] --> B[Tech Selection\n(IoT, MES, analytics, robotics)]
-  B --> C[Pilot Design\n(data model, dashboards, training)]
-  C --> D[Run Pilot\nmeasure OEE, FPY, kWh/unit]
-  D --> E[Scale & Interconnect\nOT/IT, cybersecurity, governance]
-  E --> F[Continuous Improvement\nkaizen + model updates]
+  A["Readiness & Baseline<br/>VSM, KPI tree, skills audit"] --> B["Tech Selection<br/>IoT, MES, analytics, robotics"]
+  B --> C["Pilot Design<br/>data model, dashboards, training"]
+  C --> D["Run Pilot<br/>measure OEE, FPY, kWh/unit"]
+  D --> E["Scale & Interconnect<br/>OT/IT, cybersecurity, governance"]
+  E --> F["Continuous Improvement<br/>kaizen + model updates"]
 
 ---
 

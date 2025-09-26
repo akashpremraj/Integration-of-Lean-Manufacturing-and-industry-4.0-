@@ -1,0 +1,9 @@
+cff-version: 1.2.0
+message: If you use this portfolio reconstruction, please cite it.
+title: "Lean × Industry 4.0 — Smart Manufacturing Framework (UK Automotive)"
+authors:
+  - family-names: Raj
+    given-names: Akash P
+date-released: "2025-09-26"
+version: "1.0.0"
+license: MIT

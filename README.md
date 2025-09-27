@@ -71,6 +71,44 @@ flowchart LR
 
 ---
 
+#### KPI tree
+```mermaid
+flowchart TB
+  R["KPI Tree<br/>(Operations &amp; Improvement)"]
+
+  R --> P["Productivity"]
+  R --> Q["Quality"]
+  R --> C["Cost &amp; Energy"]
+  R --> F["Flexibility"]
+  R --> S["Sustainability"]
+  R --> H["People"]
+
+  P --> P1["Throughput"]
+  P --> P2["Cycle Time"]
+  P --> P3["OEE"]
+
+  Q --> Q1["First-Pass Yield"]
+  Q --> Q2["DPMO"]
+  Q --> Q3["Rework Rate"]
+
+  C --> C1["£ per Unit"]
+  C --> C2["kWh per Unit"]
+  C --> C3["Maintenance £"]
+
+  F --> F1["Changeover (SMED)"]
+  F --> F2["Mix Responsiveness"]
+
+  S --> S1["Energy Intensity"]
+  S --> S2["Scrap Rate"]
+  S --> S3["CO₂e per Unit"]
+
+  H --> H1["Training Hours"]
+  H --> H2["Ergonomics"]
+  H --> H3["Ideas Implemented"]
+```
+
+---
+
 ## 🔐 Cybersecurity & People
 - **Controls:** Network segmentation/zero-trust, IAM + MFA, encryption, monitoring & anomaly detection, incident response.  
 - **People:** Upskilling (IoT/analytics/robotics), ergonomic workstation design, change management, cross-functional Kaizen.

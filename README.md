@@ -1,3 +1,5 @@
+[![PDF](https://img.shields.io/badge/Dissertation-PDF-blue)](docs/Dissertation_Akash_P_Raj_Lean_I4.0_UK_Automotive_2023.pdf)
+
 # Integration of Lean Manufacturing and Industry 4.0 — Smart Manufacturing Framework (UK Automotive)
 
 **Author:** Akash P Raj  

@@ -1,3 +1,6 @@
+**Akash P Raj (2023).** *Integration of Lean Manufacturing and Industry 4.0: A Framework for Smart Manufacturing in the UK Automotive Sector.*  
+MSc Engineering Management Dissertation, Anglia Ruskin University, submitted 15-Sept-2023. (See repo `docs/Dissertation_Akash_P_Raj_Lean_I4.0_UK_Automotive_2023.pdf`).
+
 # References (Selected)
 
 1. Womack, J., Jones, D. *Lean Thinking*.  

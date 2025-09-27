@@ -46,6 +46,7 @@ See **“Integration of Lean Manufacturing and Industry 4.0: A Framework for Sma
 
 ### Roadmap at a glance
 ```mermaid
+%%{init: {"flowchart": {"nodeSpacing": 60, "rankSpacing": 70}, "themeVariables": {"fontSize": "18px"}}}%%
 flowchart LR
   A["Readiness & Baseline<br/>VSM, KPI tree, skills audit"] --> B["Tech Selection<br/>IoT, MES, analytics, robotics"]
   B --> C["Pilot Design<br/>data model, dashboards, training"]
@@ -85,38 +86,21 @@ flowchart LR
 
 #### KPI tree
 ```mermaid
-flowchart TB
-  R["KPI Tree<br/>(Operations &amp; Improvement)"]
-
-  R --> P["Productivity"]
+%%{init: {"flowchart": {"nodeSpacing": 50, "rankSpacing": 90}, "themeVariables": {"fontSize": "16px"}}}%%
+flowchart LR
+  R["KPI Tree<br/>(Operations &amp; Improvement)"] --> P["Productivity"]
   R --> Q["Quality"]
   R --> C["Cost &amp; Energy"]
   R --> F["Flexibility"]
   R --> S["Sustainability"]
   R --> H["People"]
 
-  P --> P1["Throughput"]
-  P --> P2["Cycle Time"]
-  P --> P3["OEE"]
-
-  Q --> Q1["First-Pass Yield"]
-  Q --> Q2["DPMO"]
-  Q --> Q3["Rework Rate"]
-
-  C --> C1["£ per Unit"]
-  C --> C2["kWh per Unit"]
-  C --> C3["Maintenance £"]
-
-  F --> F1["Changeover (SMED)"]
-  F --> F2["Mix Responsiveness"]
-
-  S --> S1["Energy Intensity"]
-  S --> S2["Scrap Rate"]
-  S --> S3["CO₂e per Unit"]
-
-  H --> H1["Training Hours"]
-  H --> H2["Ergonomics"]
-  H --> H3["Ideas Implemented"]
+  P --> P1["Throughput"]; P --> P2["Cycle Time"]; P --> P3["OEE"]
+  Q --> Q1["First-Pass Yield"]; Q --> Q2["DPMO"]; Q --> Q3["Rework Rate"]
+  C --> C1["£ per Unit"]; C --> C2["kWh per Unit"]; C --> C3["Maintenance £"]
+  F --> F1["Changeover (SMED)"]; F --> F2["Mix Responsiveness"]
+  S --> S1["Energy Intensity"]; S --> S2["Scrap Rate"]; S --> S3["CO₂e per Unit"]
+  H --> H1["Training Hours"]; H --> H2["Ergonomics"]; H --> H3["Ideas Implemented"]
 ```
 
 ---

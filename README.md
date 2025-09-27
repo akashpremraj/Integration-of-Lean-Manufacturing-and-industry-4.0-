@@ -15,6 +15,14 @@ This project develops a practical **Smart Lean Manufacturing** framework that in
 
 ---
 
+### 📄 Full Dissertation (PDF)
+See **“Integration of Lean Manufacturing and Industry 4.0: A Framework for Smart Manufacturing in the UK Automotive Sector”** (submitted 15-Sept-2023).  
+[`docs/Dissertation_Akash_P_Raj_Lean_I4.0_UK_Automotive_2023.pdf`](docs/Dissertation_Akash_P_Raj_Lean_I4.0_UK_Automotive_2023.pdf)
+
+*Provenance highlights:* title/cover and submission details (p.1); aim, objectives and scope (pp. 2–4, 10); phased roadmap & validation plan (pp. 36–46); conclusion & recommendations (pp. 47–49). :contentReference[oaicite:2]{index=2}
+
+---
+
 ## 🎯 Objectives
 1. Assess Lean adoption, challenges, and opportunities in UK automotive.  
 2. Map relevant Industry 4.0 technologies to Lean value streams.  

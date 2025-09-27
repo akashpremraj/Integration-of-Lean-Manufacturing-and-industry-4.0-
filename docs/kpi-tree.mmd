@@ -1,0 +1,40 @@
+flowchart TB
+  %% Root
+  R["KPI Tree<br/>(Operations &amp; Improvement)"]
+
+  %% First-level families
+  R --> P["Productivity"]
+  R --> Q["Quality"]
+  R --> C["Cost &amp; Energy"]
+  R --> F["Flexibility"]
+  R --> S["Sustainability"]
+  R --> H["People"]
+
+  %% Productivity
+  P --> P1["Throughput"]
+  P --> P2["Cycle Time"]
+  P --> P3["OEE"]
+
+  %% Quality
+  Q --> Q1["First-Pass Yield"]
+  Q --> Q2["DPMO"]
+  Q --> Q3["Rework Rate"]
+
+  %% Cost & Energy
+  C --> C1["£ per Unit"]
+  C --> C2["kWh per Unit"]
+  C --> C3["Maintenance £"]
+
+  %% Flexibility
+  F --> F1["Changeover (SMED)"]
+  F --> F2["Mix Responsiveness"]
+
+  %% Sustainability
+  S --> S1["Energy Intensity"]
+  S --> S2["Scrap Rate"]
+  S --> S3["CO₂e per Unit"]
+
+  %% People
+  H --> H1["Training Hours"]
+  H --> H2["Ergonomics"]
+  H --> H3["Ideas Implemented"]

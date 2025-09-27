@@ -1,7 +1,8 @@
 ### 📄 Full Dissertation (PDF)
-[`docs/Dissertation_Akash_P_Raj_Lean_I4.0_UK_Automotive_2023.pdf`](docs/Dissertation_Akash_P_Raj_Lean_I4.0_UK_Automotive_2023.pdf)
-
 # Integration of Lean Manufacturing and Industry 4.0 — Smart Manufacturing Framework (UK Automotive)
+<!-- badges go here -->
+[![Dissertation PDF](https://img.shields.io/badge/Dissertation-PDF-blue)](docs/Dissertation_Akash_P_Raj_Lean_I4.0_UK_Automotive_2023.pdf)
+[![One-page Summary](https://img.shields.io/badge/One--page_Summary-PDF-brightgreen)](docs/summary-onepager.pdf)
 
 **Author:** Akash P Raj  
 **Program:** Engineering Management (Project)  
